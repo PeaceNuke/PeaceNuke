@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeaceNuke
 - 👀 I’m interested in web application and game devooloping 
-- 🌱 I’m currently learning Java Scrpt and Python 
+- 🌱 I’m currently learning Java Scrpt and C++
 - 💞️ I’m looking to collaborate on any project that will help me learn 
 - 📫 You can reach me at wwilliamsyumaaz@gmail.com
 
